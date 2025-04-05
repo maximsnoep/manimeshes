@@ -31,6 +31,55 @@ Collection of various manifold surface meshes of three-dimensional shapes.
 
 
 # CAD (genus=0)
+| model name                              | #vertices | #edges  | #triangles | downloaded from | license |
+|-----------------------------------------|-----------|---------|------------|-----------------|---------|
+| [B0] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B2] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B5] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B7] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B8] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B9] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B11] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B12] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B14] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B15] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B16] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B17] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B18] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B19] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B20] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B21] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B23] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B25] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B27] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B28] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B30] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B34] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B35] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B36] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B38] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B39] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B40] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B41] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B43] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B46] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B48] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B49] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B50] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B57] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B59] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B60] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B61] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B68] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B70] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B71] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B75] | | | | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [fandisk] | | | | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) | 
+
+
+
+
+
 
 
 # CAD (genus>0)
