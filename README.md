@@ -36,7 +36,7 @@ Collection of various manifold surface meshes of three-dimensional shapes.
 | [dtorus](models/S1/dtorus.stl)          |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) | 
 | [teapot](models/S1/teapot.stl)          |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) |  
 
-# CAD (genus=0)
+# CAD (g=0, n=42)
 | model name                              | #vertices | #edges  | #triangles | downloaded from | license |
 |-----------------------------------------|-----------|---------|------------|-----------------|---------|
 | [B0](models/C0/B0.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
