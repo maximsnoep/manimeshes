@@ -1,4 +1,4 @@
-Collection of various manifold surface meshes of three-dimensional shapes.
+Collection of various manifold surface meshes of three-dimensional shapes. If source was non-triangulated format, then shape was triangulated with (Gmsh)[https://gmsh.info/].
 
 # Smooth (g=0, n=22)
 | model name                              | #vertices | #edges  | #triangles | downloaded from | license |
