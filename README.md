@@ -97,7 +97,7 @@ Collection of various manifold surface meshes of three-dimensional shapes. If so
 | [B65](models/C1/B65.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
 | [B66](models/C1/B66.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
 | [B73](models/C1/B73.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
-| [block](models/C1/block.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED] |
-| [rocker](models/C1/rocker.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED] |
-| [rod](models/C1/rod.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED] |
+| [block](models/C1/block.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) |  
+| [rocker](models/C1/rocker.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) |  
+| [rod](models/C1/rod.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) |  
 
