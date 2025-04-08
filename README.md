@@ -83,5 +83,21 @@ Collection of various manifold surface meshes of three-dimensional shapes. If so
 | [fandisk](models/C0/fandisk.stl)        |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED](https://creativecommons.org/publicdomain/zero/1.0/) |
 
 
-# CAD (genus>0)
+# CAD (g>0, n=14)
+| model name                              | #vertices | #edges  | #triangles | downloaded from | license |
+|-----------------------------------------|-----------|---------|------------|-----------------|---------|
+| [B1](models/C1/B1.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B3](models/C1/B3.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B10](models/C1/B10.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B13](models/C1/B13.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B32](models/C1/B32.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B33](models/C1/B33.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B51](models/C1/B51.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B62](models/C1/B62.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B65](models/C1/B65.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B66](models/C1/B66.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [B73](models/C1/B73.stl)                  |           |         |            | [Franck Ledoux](https://gitlab.com/franck.ledoux/mambo) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
+| [block](models/C1/block.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED] |
+| [rocker](models/C1/rocker.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED] |
+| [rod](models/C1/rod.stl)                  |           |         |            | [Xifeng Gao](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.zip) | [CC0 1.0 DEED] |
 
